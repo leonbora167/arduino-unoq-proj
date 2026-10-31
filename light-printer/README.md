@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/87a287cf-79a6-449b-9f85-5d8d33856e04
+
 Nothing deep just trying to understand how to control the lights on the board. 
 
 I can differentiate it into 3 zones as far as I understand:
@@ -6,7 +8,7 @@ I can differentiate it into 3 zones as far as I understand:
 2. Opposite of it on the other side there are 4 lights. They are rgb so any color i presume.
 3. The main thing a dot matrix of blue led lights in 8x13 formation
 
----
+## Components
 
 a. Two of the rgb lights can be controlled using the python code inside the app cause they are physically connected to the *Qualcomm MPU (linux)*. Don't need C++ here.
 
